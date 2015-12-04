@@ -1,2 +1,2 @@
-# tidybib
-Tidy up BibTeX files.
+# TidyBib
+Tidy up my BibTeX files.
